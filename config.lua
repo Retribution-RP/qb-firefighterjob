@@ -35,33 +35,39 @@ Config.Locations = {
 
 Config.AuthorizedVehicles = {
 	-- Grade 0
-	[0] = {
-		["firetruk"] = "Fire Truck",
+	[1] = {
+		["arrowladder"] = "Fire Truck",
 	},
 	-- Grade 1
-	[1] = {
-		["firetruk"] = "Fire Truck",
+	[2] = {
+		["arrowladder"] = "Fire Truck",
 
 	},
 	-- Grade 2
-	[2] = {
-		["firetruk"] = "Fire Truck",
+	[3] = {
+		["arrowladder"] = "Fire Truck",
 	},
 	-- Grade 3
-	[3] = {
-		["firetruk"] = "Fire Truck",
+	[4] = {
+		["arrowladder"] = "Fire Truck",
 	},
 	-- Grade 4
-	[4] = {
-		["firetruk"] = "Fire Truck",
+	[5] = {
+		["arrowladder"] = "Fire Truck",
+        ["ram20pov"] = "Pickup",
+
 	},
     -- Grade 5
-	[5] = {
-		["firetruk"] = "Fire Truck",
+	[6] = {
+		["arrowladder"] = "Fire Truck",
+        ["ram20pov"] = "Pickup",
+
 	},
     -- Grade 6
-	[6] = {
-		["firetruk"] = "Fire Truck",
+	[7] = {
+		["arrowladder"] = "Fire Truck",
+        ["ram20pov"] = "Pickup",
+
 	}
 }
 
@@ -73,7 +79,7 @@ Config.Items = {
     items = {
         [1] = {
             name = "radio",
-            price = 0,
+            price = 50,
             amount = 1,
             info = {},
             type = "item",
@@ -81,7 +87,7 @@ Config.Items = {
         },
         [2] = {
             name = "bandage",
-            price = 0,
+            price = 20,
             amount = 50,
             info = {},
             type = "item",
@@ -89,7 +95,7 @@ Config.Items = {
         },
         [3] = {
             name = "firstaid",
-            price = 0,
+            price = 20,
             amount = 50,
             info = {},
             type = "item",
@@ -97,7 +103,7 @@ Config.Items = {
         },
         [4] = {
             name = "weapon_flashlight",
-            price = 0,
+            price = 50,
             amount = 1,
             info = {},
             type = "item",
@@ -105,7 +111,7 @@ Config.Items = {
         },
         [5] = {
             name = "weapon_fireextinguisher",
-            price = 0,
+            price = 50,
             amount = 50,
             info = {},
             type = "item",
@@ -113,7 +119,7 @@ Config.Items = {
         },
         [6] = {
             name = "advancedrepairkit",
-            price = 0,
+            price = 50,
             amount = 10,
             info = {},
             type = "item",
@@ -121,7 +127,7 @@ Config.Items = {
         },
         [7] = {
             name = "ifaks",
-            price = 0,
+            price = 50,
             amount = 50,
             info = {},
             type = "item",
@@ -129,7 +135,7 @@ Config.Items = {
         },
         [8] = {
             name = "weapon_hatchet",
-            price = 0,
+            price = 50,
             amount = 1,
             info = {},
             type = "item",
@@ -137,7 +143,7 @@ Config.Items = {
         },
         [9] = {
             name = "notepad",
-            price = 0,
+            price = 10,
             amount = 1,
             info = {},
             type = "item",
