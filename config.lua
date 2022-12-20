@@ -141,25 +141,25 @@ Config.Items = {
 }
 
 Config.VehicleSettings = {
-    ["car1"] = { -- Model name
+    ["arrowladder"] = { -- Model name
         ["extras"] = {
-            ["1"] = false, -- on/off
-            ["2"] = true,
+            ["1"] = true, -- on/off
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
-            ["6"] = true,
-            ["7"] = true,
-            ["8"] = true,
-            ["9"] = true,
+            ["6"] = false,
+            ["7"] = false,
+            ["8"] = false,
+            ["9"] = false,
             ["10"] = true,
             ["11"] = true,
             ["12"] = true,
         }
     },
-    ["car2"] = {
+    ["ram20pov"] = {
         ["extras"] = {
-            ["1"] = false,
+            ["1"] = true,
             ["2"] = true,
             ["3"] = true,
             ["4"] = true,
@@ -170,7 +170,7 @@ Config.VehicleSettings = {
             ["9"] = true,
             ["10"] = true,
             ["11"] = true,
-            ["12"] = true,
+            ["12"] = false,
         }
     }
 }
