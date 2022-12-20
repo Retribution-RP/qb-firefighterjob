@@ -24,38 +24,40 @@ Config.Locations = {
 Config.AuthorizedVehicles = {
 	-- Grade 0
 	[1] = {
-		["arrowladder"] = "Fire Truck",
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",
 	},
 	-- Grade 1
 	[2] = {
-		["arrowladder"] = "Fire Truck",
-
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",
 	},
 	-- Grade 2
 	[3] = {
-		["arrowladder"] = "Fire Truck",
-	},
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",	},
 	-- Grade 3
 	[4] = {
-		["arrowladder"] = "Fire Truck",
-	},
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",	},
 	-- Grade 4
 	[5] = {
-		["arrowladder"] = "Fire Truck",
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",
         ["ram20pov"] = "Pickup",
 
 	},
     -- Grade 5
 	[6] = {
-		["arrowladder"] = "Fire Truck",
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",
         ["ram20pov"] = "Pickup",
-
 	},
     -- Grade 6
 	[7] = {
-		["arrowladder"] = "Fire Truck",
+		["arrowladder"] = "Arrow Ladder",
+        ["arroweng"] = "Arrow Engine",
         ["ram20pov"] = "Pickup",
-
 	}
 }
 
